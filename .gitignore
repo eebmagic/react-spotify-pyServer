@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+react-sample/node_modules
+react-sample/.pnp
+react-sample.pnp.js
+
+# testing
+react-sample/coverage
+
+# production
+react-sample/build
+
+# misc
+react-sample/.DS_Store
+react-sample/npm-debug.log*
